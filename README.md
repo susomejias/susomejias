@@ -70,17 +70,11 @@ I'm **Jesús Mejías**, but I am known by the nickname **_susomejias_**, I am a 
         <br/><br/>
       </td>
       <td width="25%" align="center" style="padding-bottom:3rem">
-          <span><b>Todoist</b></span><br/><br/><br/>
-         <img height="64px" src="https://cdn.svgporn.com/logos/todoist.svg">
-         <br/><br/>
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center" style="padding-bottom:3rem">
           <span><b>Hyper Terminal</b></span><br/><br/><br/>
         <img height="64px" src="https://cdn.svgporn.com/logos/hyper.svg">
         <br/><br/>
       </td>
+    </tr>
   </tbody>
 </table>
 
