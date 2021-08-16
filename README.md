@@ -65,8 +65,8 @@ I'm **Jesús Mejías**, but I am known by the nickname **_susomejias_**, I am a 
         <br/><br/>
       </td>
       <td width="25%" align="center" style="padding-bottom:3rem">
-        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br/><br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+        <span>WebStorm</span><br/><br/><br/>
+        <img height="64px" src="https://cdn.svgporn.com/logos/webstorm.svg">
         <br/><br/>
       </td>
       <td width="25%" align="center" style="padding-bottom:3rem">
