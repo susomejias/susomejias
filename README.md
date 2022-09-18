@@ -1,9 +1,10 @@
 # Susomejias
 
-[![Twitter Badge](https://img.shields.io/badge/-@susomejias-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/susomejias)](https://twitter.com/susomejias)
-[![Portfolio Badge](https://img.shields.io/badge/susomejias-D266B3?style=flat-square&labelColor=D266B3&logo=Firefox&logoColor=white&link=https://susomejias.es)](https://susomejias.es)
-[![Devto Badge](https://img.shields.io/badge/susomejias-black?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/susomejias)](https://dev.to/susomejias)
-[![Linkedin Badge](https://img.shields.io/badge/jesúsmejiasleiva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jesus-mejias-leiva/)](https://www.linkedin.com/in/jesus-mejias-leiva/)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-D266B3?style=flat-square&labelColor=D266B3&logo=Firefox&logoColor=white&link=https://susomejias.es)](https://susomejias.es)
+[![Blog Badge](https://img.shields.io/badge/Blog-black?style=flat-square&logo=Firefox&logoColor=white&link=[https://dev.to/susomejias](https://blog.susomejias.dev))](https://blog.susomejias.dev)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/susomejias)](https://twitter.com/susomejias)
+[![Devto Badge](https://img.shields.io/badge/DEVTO-black?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/susomejias)](https://dev.to/susomejias)
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jesus-mejias-leiva/)](https://www.linkedin.com/in/jesus-mejias-leiva/)
 
 <br/>
 <img src='https://raw.githubusercontent.com/susomejias/susomejias/10b92bd5ffa0233dc5c84d6dd4b2630571fcaea3/images/undraw_developer_activity_bv83.svg' width='200'/>
