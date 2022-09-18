@@ -43,18 +43,18 @@ I'm **Jesús Mejías**, but I am known by the nickname **_susomejias_**, I am a 
       </tr>
       <tr valign="top">
       <td width="25%" align="center" style="padding-bottom:3rem">
-        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br/><br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+        <span><b>Javascript</b></span><br/><br/><br/>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
         <br/><br/>
       </td>
         <td width="25%" align="center" style="padding-bottom:3rem">
-            <span><b>Django</b></span><br/><br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/django.svg">
+            <span><b>Node</b></span><br/><br/><br/>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
         <br/><br/>
       </td>
       <td width="25%" align="center" style="padding-bottom:3rem">
-          <span><b>Jira</b></span><br/><br/><br/>
-         <img height="64px" src="https://cdn.svgporn.com/logos/jira.svg">
+          <span><b>Testing library</b></span><br/><br/><br/>
+         <img height="64px" src="https://cdn.svgporn.com/logos/testing-library.svg">
          <br/><br/>
       </td>
     </tr>
@@ -65,13 +65,13 @@ I'm **Jesús Mejías**, but I am known by the nickname **_susomejias_**, I am a 
         <br/><br/>
       </td>
       <td width="25%" align="center" style="padding-bottom:3rem">
-        <span>WebStorm</span><br/><br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/webstorm.svg">
+        <span>IntelliJ IDEA</span><br/><br/><br/>
+        <img height="64px" src="https://cdn.svgporn.com/logos/intellij-idea.svg">
         <br/><br/>
       </td>
       <td width="25%" align="center" style="padding-bottom:3rem">
-          <span><b>Hyper Terminal</b></span><br/><br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/hyper.svg">
+          <span><b>Terminal</b></span><br/><br/><br/>
+        <img height="64px" src="https://cdn.svgporn.com/logos/terminal.svg">
         <br/><br/>
       </td>
     </tr>
