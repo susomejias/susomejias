@@ -7,7 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jesus-mejias-leiva/)](https://www.linkedin.com/in/jesus-mejias-leiva/)
 
 <br/>
-<img src='https://raw.githubusercontent.com/susomejias/susomejias/10b92bd5ffa0233dc5c84d6dd4b2630571fcaea3/images/undraw_developer_activity_bv83.svg' width='200'/>
+<img src='https://github.com/susomejias/susomejias/blob/5ba6d3c310cba266e0430892ead448ee2f921dbd/images/susomejias.png' width='200'/>
 
 ## Hello world 👋 🌍
 
