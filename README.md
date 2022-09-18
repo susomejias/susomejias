@@ -11,7 +11,7 @@
 
 ## Hello world 👋 🌍
 
-I'm **Jesús Mejías**, but I am known by the nickname **_susomejias_**, I am a **Fullstack Web Developer** and **Technician In Computer Systems**, passionate about **Technology**, **Linux**, **Open-source development**, **Team-work**. Always in constant learning.
+I'm **Jesús Mejías**, but I am known by the nickname **_susomejias_**, I am a **Frontend Developer**, passionate about **Technology**, **Linux**, **Open-source development**, **Team-work**. Always in constant learning.
 
 ## What destination my time 🕜
 
